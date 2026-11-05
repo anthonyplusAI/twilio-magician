@@ -12,6 +12,13 @@ A magic-themed portfolio website for Anthony Dellavecchia, Developer Evangelist 
 
 This repository does not call Twilio APIs at runtime and does not require Twilio credentials. Twilio appears in the site content to describe the live magic performances and the products used in those demos.
 
+## Watch the showcase film
+
+<!-- Video hosted as a GitHub user attachment. -->
+{{GITHUB_VIDEO_URL}}
+
+*40-second music-led showcase with illustrated phone screens and real performance photos.*
+
 ## In Action
 
 | Preview | Description |
@@ -22,6 +29,7 @@ This repository does not call Twilio APIs at runtime and does not require Twilio
 
 ## Contents
 
+- [Watch the showcase film](#watch-the-showcase-film)
 - [In Action](#in-action)
 - [Architecture](#architecture)
 - [Tech Stack](#tech-stack)
