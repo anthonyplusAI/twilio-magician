@@ -15,7 +15,7 @@ This repository does not call Twilio APIs at runtime and does not require Twilio
 ## Watch the showcase film
 
 <!-- Video hosted as a GitHub user attachment. -->
-{{GITHUB_VIDEO_URL}}
+https://github.com/user-attachments/assets/4ccf123d-b7c7-4118-b724-fbe7ab3acc93
 
 *40-second music-led showcase with illustrated phone screens and real performance photos.*
 
